@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# Add pre-commit checks here.
+exit 0
